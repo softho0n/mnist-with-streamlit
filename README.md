@@ -19,7 +19,7 @@ The MNIST database is a large database of handwritten digits that is commonly us
 * `Epochs        : 30`
 * `Optimizer     : Adam Optimizer (Default Setting)`
 * `Learning Rate : Default lr`
-* Refer this code
+* [Refer this code](https://github.com/softho0n/mnist-with-streamlit/blob/main/train.ipynb)
 
 ## How to run?
 ### Requirements
